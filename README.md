@@ -157,17 +157,7 @@
 
 </details>
 
-## For Developers
-
-In addition to the above methods, you can also get a list of all available channels in JSON format.
-
-To do this, you just have to make a GET request to:
-
-```
-https://iptv-org.github.io/iptv/channels.json
-```
-
-If successful, you should get the following response:
+ 
 
 <details>
 <summary>Expand</summary>
